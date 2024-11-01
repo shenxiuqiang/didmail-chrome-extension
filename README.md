@@ -3,6 +3,10 @@
 
 The DIDMail Extension is a Chrome extension that allows you to send and receive emails using the DIDMail protocol.
 
+## DIDMail Demo vido:
+
+https://www.youtube.com/watch?v=Q22zpSlumPs
+
 ## Prerequisites
 
 - Download the chrome extension from:
